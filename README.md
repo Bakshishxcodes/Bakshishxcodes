@@ -27,7 +27,8 @@ C++ | Kotlin | Java | Python | Git | GitHub | Android Studio
 
 ### 🌐 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/bakshish-singh-suri-599514351)  
-- 🐦 [Twitter](https://x.com/Bakshish_techie?t=gNPvD2Hj8PG6TEMldQ0koA&s=09)  
+- 🐦 [Twitter](https://x.com/Bakshish_techie?t=gNPvD2Hj8PG6TEMldQ0koA&s=09)
+- 🧮 [LeetCode](https://leetcode.com/_BAKSHISH_/) 
 - 🧑‍💻 [GitHub](https://github.com/Bakshishxcodes)  
 
 ---
