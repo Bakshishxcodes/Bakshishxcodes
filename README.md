@@ -1,36 +1,70 @@
-# 👋 Hey, I'm Bakshish Singh Suri  
+# Hi, I’m Bakshish 👋  
+### Backend-Focused Full-Stack Engineer (Java)
 
-🚀 Aspiring Software Engineer | Learning in Public  
-💻 Focused on DSA, C++, Competitive Programming & Android Development  
-🎯 Goal: Crack FAANG and become a world-class problem solver  
+I build **backend-heavy full-stack systems** with a strong focus on **Java, Spring Boot, and system design**, and use React Native to deliver complete end-to-end products.
 
----
+I care about **clean architecture, scalability, and real-world engineering trade-offs**.
 
-### 🧠 What I'm Doing Right Now  
-- 📘 Mastering Data Structures & Algorithms (C++)  
-- 🏆 Grinding Competitive Programming on Codeforces & LeetCode  
-- 📱 Starting Android App Development (Kotlin + Java)  
-- 🔥 Building strong fundamentals in DBMS, OS, CN  
+🌍 Open to global remote opportunities
 
 ---
 
-### 🛠️ Tech Stack  
-C++ | Kotlin | Java | Python | Git | GitHub | Android Studio  
+## 🧠 What I Do
+
+- Design and build backend services using **Spring Boot**
+- Create **REST APIs** with authentication, validation, and clean layering
+- Design **database schemas** and write efficient queries
+- Deploy applications on **AWS** using Docker
+- Build mobile frontends using **React Native**
+- Think in terms of **scalability, failure handling, and maintainability**
 
 ---
 
-### 📊 GitHub Stats  
-![Bakshish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bakshishxcodes&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bakshishxcodes&layout=compact&theme=tokyonight)
+## 🛠 Tech Stack
+
+**Backend**
+- Java, Spring Boot
+- REST APIs, JWT Authentication
+- Clean Architecture (Controller → Service → Repository)
+
+**Frontend**
+- React Native
+
+**Databases**
+- PostgreSQL, MySQL
+
+**Infrastructure**
+- AWS (EC2, RDS, S3)
+- Docker
+- Linux
+
+**Concepts**
+- System Design
+- API Design
+- Database Indexing
+- Backend Performance Basics
+- Caching fundamentals
 
 ---
 
-### 🌐 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/bakshish-singh-suri-599514351)  
-- 🐦 [Twitter](https://x.com/Bakshish_techie?t=gNPvD2Hj8PG6TEMldQ0koA&s=09)
-- 🧮 [LeetCode](https://leetcode.com/_BAKSHISH_/) 
-- 🧑‍💻 [GitHub](https://github.com/Bakshishxcodes)  
+## 📈 How I Approach Engineering
+
+- Backend first, UI second
+- Prefer **simple, readable solutions** over complex ones
+- Write code assuming it will **scale and break**
+- Focus on fundamentals that matter in production systems
 
 ---
 
-> 🧩 “Code. Build. Improve. Repeat.” — My daily mindset
+## 📊 GitHub Activity
+
+This GitHub reflects my **hands-on learning and building journey** in backend and full-stack development, with continuous improvements as I grow my systems.
+
+---
+
+## 📬 Contact
+
+- 🐦 Twitter/X: (https://x.com/BakshishDNohara)  
+- 💻 GitHub: (https://github.com/Bakshishxcodes) 
+
+Open to discussions, collaboration, and **remote backend or full-stack roles**.
